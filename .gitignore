@@ -153,3 +153,4 @@ cython_debug/
 Data/title.basics.tsv.gz
 Data/Data/title_basics.csv.gz
 Data/Data/title_akas.csv.gz
+Data/title_akas.csv.gz
