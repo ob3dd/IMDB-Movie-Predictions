@@ -74,7 +74,7 @@ During the exploratory data analysis, a barplot and countplot were visualized fo
 Our model 2 had an R2 of 73.4%, this will allow us to trust our model more in making predictions on movie revenues.
 
 # Summary:
-Our dataset gave us an insight on how movies generated their ravenues and how the ratings unpacted the average revenue a move/film made. Our adult movies, the R and NR rated movies had lower profits due the content of the movies made. The budget set aside for these movies and the profit made weren't that much compared to the other ratings listed above.
+Our dataset gave us an insight on how movies generated their revenues and how the ratings unpacted the average revenue a movie/film made. Our adult movies, the R and NR rated movies had lower profits due the content of the movies made. The budget set aside for these movies and the profit made weren't that much compared to the other ratings listed above.
 
 # Recommendation
 I would recommend making more movies with the G rating and PG, PG-13 movies. There more revenues would be made because of the kids and teenagers who love to watch movies, especially eye catching movies. Those adult movies may be made once in a while based on the discretion of the movie crew. Although, their maoin focis should be directed at the other ratings if they want more revenues from their movies. 
