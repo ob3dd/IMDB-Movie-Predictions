@@ -1,6 +1,6 @@
 ![image](https://github.com/ob3dd/IMDB-Movie-Predictions/assets/133266342/91616482-2377-4d0f-bbc9-e3dc836b8c40)
 # IMDB Movie Predictions
-## Using a MySQL database from a subset of IMDB dataset to anallyze what makes a movie successful
+## Using a MySQL database from a subset of IMDB dataset to analyze what makes a movie successful
 **Obed Okoro**
 # Buisness Description
 Will be analyzing what makes a movie successful and will provide recommendations to the stakeholder on how to make a successful movie.
